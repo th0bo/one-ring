@@ -1,0 +1,11 @@
+Model Information:
+* title:	One Ring
+* source:	https://sketchfab.com/3d-models/one-ring-2151e868e7be41f2a5bede5fee5e4dee
+* author:	JayDesigns3D (https://sketchfab.com/JayDesigns)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "One Ring" (https://sketchfab.com/3d-models/one-ring-2151e868e7be41f2a5bede5fee5e4dee) by JayDesigns3D (https://sketchfab.com/JayDesigns) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
